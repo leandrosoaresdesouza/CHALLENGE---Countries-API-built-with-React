@@ -1,9 +1,7 @@
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/23482593/669e9444-feae-11e6-9b6b-d1a53faf984a.png" alt="Challenge Accepeted"></p>
 # STATUS: IN PROGRESS
-# Frontend Mentor - REST Countries API with color theme switcher
 
-![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
-
+## Frontend Mentor - REST Countries API with color theme switcher
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
